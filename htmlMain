@@ -1,8 +1,24 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link src=>
+<link rel="stylesheet" type="text/css" href="mainCss">
 </head>
 <body>
+  <header class = "header">
+    <div class = "navigation">
+      <h1>
+      Connor's blog 
+      </h1>
+      <nav>
+        <p>Categories</p>
+        <p>Latest</p>
+        <p>About me</p>
+      </nav>
+    </div>
+    <div>
+    <img src = "https://static.pexels.com/photos/80277/pexels-photo-80277.png">
+    </div>
+  
+  </header>
 </body>
 </html>
