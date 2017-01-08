@@ -1,24 +1,45 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="mainCss">
+<link rel="stylesheet" type="text/css" href="style.css">
+ <link href="https://fonts.googleapis.com/css?family=Open+Sans|Oswald|Rancho" rel="stylesheet">
 </head>
 <body>
-  <header class = "header">
-    <div class = "navigation">
-      <h1>
-      Connor's blog 
-      </h1>
-      <nav>
-        <p>Categories</p>
-        <p>Latest</p>
-        <p>About me</p>
-      </nav>
-    </div>
-    <div>
-    <img src = "https://static.pexels.com/photos/80277/pexels-photo-80277.png">
-    </div>
   
+ 
+  
+  <header class = "header">
+
+   
+
+    <div class = "navigation">
+       <h1>
+      			Connor's blog 
+       </h1>
+      <nav>
+         <p>Categories</p>
+         <p>Latest</p>
+         <p>About me</p>
+        
+      </nav>
+       
+    </div>
+    <div id = "BackgroundImage"> 
+  
+  </div>
   </header>
+          <div id = "sideBar" > 
+    <p>hello world </p>
+    <p>hello world </p>
+    <p>hello world </p>
+    <p>hello world </p>
+    <p>hello world </p>
+  </div>
+  
+   
+
+      
+    
+ 
 </body>
 </html>
