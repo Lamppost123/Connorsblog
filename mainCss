@@ -1,1 +1,61 @@
+#BackgroundImage {
+ height: 200%;
+  position: relative;
+  top:-200px;
+  width: 100%;
+ background:url(https://static.pexels.com/photos/80277/pexels-photo-80277.png) no-repeat top center;
+ background-size:cover;
+ background-attachment: fixed;
+ 
+
+}
+h1 {
+  font-family: 'Rancho';
+  
+}
+
+.navigation {
+  position: relative;
+   
+  width: 100%;
+  background-color: rgba(63, 191, 191, 0.5);
+  display:block;
+  text-align:center;
+    overflow-y: auto;
+  
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+   
+ 
+    
+}
+  nav { 
+   font-family: 'Oswald', sans-serif;
+  
+}
+#sideBar {
+   position: relative;
+    background-color: rgba(4, 50, 96, 0.5);
+  max-width: 25%;
+  min-width: 140px;
+    height: 100%;
+  top: -40%;
+  width: 100%;
+  padding-left: 10px;
+  padding-top: 1%;
+  
+ 
+ 
+  
+}
+
+  
+ 
+  
+  
+  
+
+
 
